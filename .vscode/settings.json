@@ -1,0 +1,4 @@
+{
+  "typescript-web.trace.server": "verbose",
+  "editorconfig.generateAuto": false
+}
